@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi  👋
+
+## My Name is Enes. I'm Software Engineer.
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=baynarkozcu&show_icons=true&theme=gradient) 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=baynarkozcu&show_icons=true&theme=radical)
