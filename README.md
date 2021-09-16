@@ -1,6 +1,6 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-<div align="center"><h3>Hi 👋, My Name is Enes. I'm Software Engineer & Mobile Developer</h3></div>
+<div align="center"><h3>Hi 👋, My Name is Enes. I'm Software Engineer & Mobile Application Developer</h3></div>
 
 <div align="center">
   <a href="https://www.facebook.com/baynarkozcu"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
