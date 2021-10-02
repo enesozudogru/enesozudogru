@@ -1,4 +1,4 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.linkedin.com/in/enesozudogruu/) 
 
 <div align="center"><h3>Hi 👋, My Name is Enes. I'm Software Engineer & Mobile Application Developer</h3></div>
 
