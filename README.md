@@ -56,7 +56,11 @@
 <br>
 <br>
 
----
+
+<img height='200px' src="https://github-profile-trophy.vercel.app/?username=baynarkozcu&title=Followers&title=Repositories&title=Commit&title=MultiLanguage"/>
+
+
+
 
 <br>
 <br>
