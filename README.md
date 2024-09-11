@@ -3,9 +3,9 @@
 <div align="center"><h3>Hi 👋, My Name is Enes. I'm Software Engineer & Mobile Application Developer</h3></div>
 
 <div align="center">
-  <a href="https://www.facebook.com/baynarkozcu"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
-<a href="https://www.instagram.com/baynarkozcu/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
- <a href="https://twitter.com/baynarkozcu"><img src="https://img.shields.io/badge/twitter-%231877F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>&nbsp;
+  <a href="https://www.facebook.com/enesozudogru"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+<a href="https://www.instagram.com/enesozudogru/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+ <a href="https://twitter.com/enesozudogru"><img src="https://img.shields.io/badge/twitter-%231877F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/enesozudogruu/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:enesozudogruu@gmail.com?subject=Hola%20Sumanth"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 
@@ -57,7 +57,7 @@
 <br>
 
 
-<img height='200px' src="https://github-profile-trophy.vercel.app/?username=baynarkozcu&title=Followers&title=Repositories&title=Commit&title=MultiLanguage"/>
+<img height='200px' src="https://github-profile-trophy.vercel.app/?username=enesozudogru&title=Followers&title=Repositories&title=Commit&title=MultiLanguage"/>
 
 
 
@@ -68,7 +68,7 @@
 
 
 
-<img align="" height='250px' src="https://github-readme-stats.vercel.app/api?username=baynarkozcu&show_icons=true&theme=gruvbox&include_all_commits=true" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="" height='250px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=baynarkozcu" />
+<img align="" height='250px' src="https://github-readme-stats.vercel.app/api?username=enesozudogru&show_icons=true&theme=gruvbox&include_all_commits=true" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="" height='250px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesozudogru" />
 
 
 <br>
@@ -79,5 +79,5 @@
 
 <div align="right">
   
-[![HitCount](https://visitor-badge.glitch.me/badge?page_id=baynarkozcu)](https://visitor-badge.glitch.me/badge?page_id=baynarkozcu)
+[![HitCount](https://visitor-badge.glitch.me/badge?page_id=enesozudogru)](https://visitor-badge.glitch.me/badge?page_id=enesozudogru)
 </div>
